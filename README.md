@@ -1,15 +1,15 @@
-# HexSoftwares_Exploratory-Data-Analysis-EDA-on-a-public-Dataset
+# Exploratory Data Analysis 
 EDA explores data patterns, cleans errors and show insights using numbers and charts
 
-## Exploratory Data Analysis (EDA) is the process of looking at data to understand what it’s about. It helps you find patterns, spot mistakes, and figure out the best way to use the data for further analysis, like building models or making predictions. Think of it as a first step to "get to know" your data before doing anything advanced.
+## Exploratory Data Analysis (EDA) is the process of looking at data to understand what it’s about. It helps you find patterns, spot mistakes, and figure out the best way to use the data for further analysis, like building models or making predictions. Think of it as a first step to get to know your data before doing anything advanced.
 
 ### Why Do EDA?
 1. Understand the data:  
    - What types of data do you have (numbers, text, dates) 
-   - Are there missing values or errors?
+   - Are there missing values or errors
 
 2. Find patterns:  
-   - Are two variables related?  
+   - Are two variables related  
    - What does the data say about the trends or averages
 
 3. Spot unusual data (outliers):  
@@ -18,7 +18,7 @@ EDA explores data patterns, cleans errors and show insights using numbers and ch
 4. Check assumptions:  
    - Does the data follow any known patterns (like being normally distributed) 
 
-#### Steps in EDA*
+#### Steps in EDA
 1. Collect and Load the Data  
    - Example: Load a file into your code using Python.
 
